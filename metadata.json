@@ -1,0 +1,6 @@
+{
+  "name": "MTs Nurul Huda Mendala",
+  "description": "Website Resmi MTs Nurul Huda Mendala Sirampog - Sistem Informasi Madrasah & Portal PPDB Online Terintegrasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
